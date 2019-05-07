@@ -64,3 +64,6 @@ https://help.altvr.com/hc/en-us/articles/360015641433-How-do-I-grant-roles-to-ot
 RELEASE CHANNEL:
 https://developer.oculus.com/blog/using-release-channels-to-their-fullest/
 
+Sideload Videos in Oculus:
+https://headjack.io/tutorial/sideload-install-app-apk-oculus-go/
+
