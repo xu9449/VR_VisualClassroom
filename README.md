@@ -1,8 +1,19 @@
-# VR_WorldBank
+# VR 360 Videos/Photos  
+### For Video Player:
+ https://www.youtube.com/playlist?list=PLrx9WguYHeqHwCLm5I43HnwmeQ9hYM9kc
  
+ https://help.altvr.com/hc/en-us/articles/360015821393-How-do-I-add-a-Video-Player-to-my-World-  
+   
+ 
+RELEASE CHANNEL:
+https://developer.oculus.com/blog/using-release-channels-to-their-fullest/
 
-## Basic Step: 
+Sideload Videos in Oculus:
+https://headjack.io/tutorial/sideload-install-app-apk-oculus-go/  
 
+
+# VR Virtual Classroom -- Webinar
+ 
 ### How to record AltspaceVR in computer.  
 
 Fixed. 1) Using Computer Recording Software 2) Backup Plan: Using another computer to shoot the video to record. 
@@ -10,7 +21,6 @@ Fixed. 1) Using Computer Recording Software 2) Backup Plan: Using another comput
 ### Why I can not create my own channel? 
 
  
-
 ### How to using private link to let others attend the meeting? 
 
 STEP 1) Finish the local development tutorial 
@@ -18,15 +28,11 @@ STEP 1) Finish the local development tutorial
 https://developer.altvr.com/local-dev/ 
 Finished, Nothing really useful.    
   
-  
 ### For casting: 
 
 https://skarredghost.com/2018/12/04/how-to-use-casting-to-stream-your-oculus-go-content-to-phone-or-pc/ 
 
-### For Video Player:
- https://www.youtube.com/playlist?list=PLrx9WguYHeqHwCLm5I43HnwmeQ9hYM9kc
- 
- https://help.altvr.com/hc/en-us/articles/360015821393-How-do-I-add-a-Video-Player-to-my-World-
+
 
 Find an Android Phone and cast the screen to PC or TV 
 
@@ -61,9 +67,4 @@ grant roles:
 https://help.altvr.com/hc/en-us/articles/360015641433-How-do-I-grant-roles-to-other-people-in-my-Worlds-
 
 
-RELEASE CHANNEL:
-https://developer.oculus.com/blog/using-release-channels-to-their-fullest/
-
-Sideload Videos in Oculus:
-https://headjack.io/tutorial/sideload-install-app-apk-oculus-go/
 
