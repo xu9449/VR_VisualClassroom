@@ -1,3 +1,9 @@
+# 1 Get Started  
+  
+## 1.1 Mixed Reality Extension (MRE) SDK  
+It is the new SDK for building AltspaceVR extensions using Node.JS.  
+
+
 # VR 360 Videos/Photos  
 ### For Video Player:
 
