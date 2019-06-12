@@ -2,7 +2,8 @@
   
 ## 1.1 Mixed Reality Extension (MRE) SDK  
 It is the new SDK for building AltspaceVR extensions using Node.JS.  
-
+1.1 install the AltspaceVR and create an AltspaceVR account.  
+1.2 Install Git command line tools([install instruction](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 
 # VR 360 Videos/Photos  
 ### For Video Player:
