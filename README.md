@@ -8,6 +8,8 @@ It is the new SDK for building AltspaceVR extensions using Node.JS.
 [install instruction](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ### 1.3 Follow the step-by-step instructions to build and run a sample.  
 [MRE SDK Sample repository](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)  
+1.3.1 How to Build and Run the Hello World sample
+1.3.2 Hosting in the Cloud  
 
 
 # VR 360 Videos/Photos  
