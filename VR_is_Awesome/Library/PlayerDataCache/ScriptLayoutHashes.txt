@@ -1,0 +1,6 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/kexinxu/Projects/unity/VR_is_Awesome/AltspaceTemp/AssetBundles/template.unity2018_1
+SceneListBegin?
+Assets/Altspace/Export/template.unity
+SceneListEnd?
